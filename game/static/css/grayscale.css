@@ -26,6 +26,9 @@ h6 {
   font-weight: 700;
   letter-spacing: 1px;
 }
+
+
+
 p {
   margin: 0 0 25px;
   font-size: 18px;
@@ -141,6 +144,24 @@ a:focus {
 .intro .intro-body .intro-text {
   font-size: 18px;
 }
+#button-holder1{
+  position:absolute !important;
+  margin-top: 10% !important;
+  }
+  #button-holder2{
+  position:absolute !important;
+  margin-top: 18% !important;
+  }
+
+img{
+  border:0 !important;
+  outline: none;
+  }
+#hint-span, #reset-span{
+  margin-left: 60%;
+  margin-top: 100%;
+  font-size: xx-large;
+  }
 @media (min-width: 768px) {
   .intro {
     height: 100%;
@@ -152,6 +173,16 @@ a:focus {
   .intro .intro-body .intro-text {
     font-size: 26px;
   }
+}
+#hangman{
+  /*background-color: white;*/
+  height:400px;
+  width: 430px;
+}
+
+
+#contact{
+  margin-top: 400px;
 }
 .btn-circle {
   width: 70px;
@@ -238,15 +269,12 @@ a:focus {
 }
 @media (min-width: 767px) {
   .content-section {
-    padding-top: 250px;
+    padding-top: 10px;
   }
   .download-section {
     padding: 100px 0;
   }
-  #map {
-    height: 400px;
-    margin-top: 250px;
-  }
+  
 }
 .btn {
   text-transform: uppercase;
@@ -286,6 +314,31 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+  #game-stage{
+    width: 100%;
+    height: 100%;
+    background-color:black; 
+    margin:10% auto;
+  }
+  #hangman{
+    height: 270px;
+    width: 250px;
+  }
+  #contact{
+  margin-top: 61px;
+  }
+  #hint-span, #reset-span{
+  margin-left: 60%;
+  margin-top: 100%;
+  }
+  #button-holder1{
+  position:absolute !important;
+  margin-top: 20% !important;
+  }
+  #button-holder2{
+  position:absolute !important;
+  margin-top: 40% !important;
+  }
 }
 footer {
   padding: 50px 0;
@@ -316,4 +369,10 @@ button {
     color:#fff;
     background:#000;
     border: none;
+    outline: 0 !important;
+}
+
+#outer{
+  height: 100%;
+  width: 100%;
 }
