@@ -36,7 +36,7 @@
                     Menu <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Start</span> Bootstrap
+                    <i class="fa fa-play-circle"></i> <span class="light">Hangman</span> Game
                 </a>
             </div>
 
@@ -48,13 +48,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Game</a>
+                        <a class="page-scroll" href="#holder">Game</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">Download</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#placeholder">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -72,7 +69,7 @@
                         <h1 class="brand-heading">Hangman</h1>
                         <p class="intro-text">Guess word in limited turns or the man get hanged.
                             <br>Click to play</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
+                        <a href="#holder" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -83,19 +80,26 @@
 
     <!-- About Section -->
     <section id="about" class="container content-section text-center">
+        <div id="holder"><br><br><br></div>
+        <div><h3 id="hint-text"><br><br></h3></div>
         <div class="row">
-            <div id="game-stage"  style="background-color:darkgrey; width:800px; height:500px; margin:0% auto;">
+            <div id="game-stage">
+                <div id='outer'><img id='hangman'><span id="button-holder1" style="position:absolute;margin-top: 20%;"><h3>
+                    <button id='hint'><span id="hint-span" class="glyphicon">&#xe101;</span></button></h3> </span>
+            <span id="button-holder2" style="position:absolute;margin-top: 40%;"><h3>
+            <button id='reset'><span id="reset-span" class="glyphicon">&#xe030;</span></button>
+            </h3> </span>
 	        </div>
             <!--<div class="col-lg-8 col-lg-offset-2">
                 <h2>About Grayscale</h2>
                 <p>Grayscale is a free Bootstrap 3 theme created by Start Bootstrap. It can be yours right now, simply download the template on <a href="http://startbootstrap.com/template-overviews/grayscale/">the preview page</a>. The theme is open source, and you can use it for any purpose, personal or commercial.</p>
-                <p>This theme features stock photos by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
+                <p>This theme features stock<span><h3>Grayscale</h3></span> photos by <a href="http://gratisography.com/">Gratisography</a> along with a custom Google Maps skin courtesy of <a href="http://snazzymaps.com/">Snazzy Maps</a>.</p>
                 <p>Grayscale includes full HTML, CSS, and custom JavaScript files along with LESS files for easy customization.</p>
             </div>-->
         </div>
     </section>
 
-    <!-- Download Section -->
+     <!--Download Section 
     <section id="download" class="content-section text-center">
         <div class="download-section">
             <div class="container">
@@ -106,34 +110,31 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <!-- Contact Section -->
+    <div id="placeholder"></div>
     <section id="contact" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
+                <h2>Contact</h2>
+                <p>Started this project as I was learning Django. Currently word list is limited to GRE hot wordlist. Still need more improvements and to add a login feature. Feel free to email me to provide some feedback, give us suggestions for new features and enhancement, or to just say hello!</p>
+                <p><a href="mailto:raajit.raj@gmail.com">raajit.raj@gmail.com</a>
                 </p>
                 <ul class="list-inline banner-social-buttons">
-                    <li>
+                    <!--<li>
                         <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
+                    </li>-->
                     <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        <a href="https://github.com/raajitr/django_hangman" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                     </li>
-                    <li>
+                    <!--<li>
                         <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
+                    </li>-->
                 </ul>
             </div>
         </div>
     </section>
-
-    <!-- Map Section -->
-    <div id="map"></div>
-
     <!-- Footer -->
     <footer>
         <div class="container text-center">
@@ -143,10 +144,10 @@
 
     <!-- jQuery -->
     <script src="{% static 'vendor/jquery/jquery.js' %}"></script>
-
+    <script src="{% static 'vendor/jquery/jquery.color.js' %}"></script>
+    <!--<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
     <!-- Bootstrap Core JavaScript -->
     <script src="{% static 'vendor/bootstrap/js/bootstrap.min.js' %}"></script>
-
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
@@ -154,6 +155,18 @@
     <script src="{% static 'js/grayscale.js' %}"></script>
     <script src="{% static 'js/game.js' %}"></script>
     <script src="{% static 'js/getWord.js' %}"></script>
+    <script>
+    var IMAGES = [
+    "{% static 'img/8.png' %}",
+    "{% static 'img/7.png' %}",
+    "{% static 'img/6.png' %}",
+    "{% static 'img/5.png' %}",
+    "{% static 'img/4.png' %}",
+    "{% static 'img/3.png' %}",
+    "{% static 'img/2.png' %}",
+    "{% static 'img/1.png' %}"];
+    </script>
+     
 
 </body>
 
