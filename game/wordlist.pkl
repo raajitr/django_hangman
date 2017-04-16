@@ -1,0 +1,2362 @@
+(dp0
+S'216'
+p1
+(dp2
+S'meaning'
+p3
+Vyielding easily shaped; moldable; adapting 
+p4
+sS'word'
+p5
+Vmalleable
+p6
+ssS'217'
+p7
+(dp8
+g3
+Vbe enough 
+p9
+sg5
+Vsuffice
+p10
+ssS'214'
+p11
+(dp12
+g3
+Vyellow metal (mixing copper and zinc) 
+p13
+sg5
+Vbrass
+p14
+ssS'215'
+p15
+(dp16
+g3
+Vspread into every part of 
+p17
+sg5
+Vpermeate
+p18
+ssS'212'
+p19
+(dp20
+g3
+Vfree giving; generosity 
+p21
+sg5
+Vliberality
+p22
+ssS'213'
+p23
+(dp24
+g3
+Vworked out with much care in great detail 
+p25
+sg5
+Velaborate
+p26
+ssS'210'
+p27
+(dp28
+g3
+Vchange to a thick and solid state 
+p29
+sg5
+Vcoagulation
+p30
+ssS'211'
+p31
+(dp32
+g3
+Vincapable of failure or error 
+p33
+sg5
+Vfoolproof
+p34
+ssS'165'
+p35
+(dp36
+g3
+Vhaving both of two contrary meanings
+p37
+sg5
+Vambivalent
+p38
+ssS'218'
+p39
+(dp40
+g3
+Vpublicly mock or ridicule
+p41
+sg5
+Vlampoon
+p42
+ssS'219'
+p43
+(dp44
+g3
+Vthat cannot be changed 
+p45
+sg5
+Vimmutable
+p46
+ssS'133'
+p47
+(dp48
+g3
+Vsplitting or division (esp. of cells) 
+p49
+sg5
+Vfission
+p50
+ssS'132'
+p51
+(dp52
+g3
+Vsettle a quarrel restore peace 
+p53
+sg5
+Vreconcile
+p54
+ssS'131'
+p55
+(dp56
+g3
+Vto debase by mixing with something inferior
+p57
+sg5
+Valloy
+p58
+ssS'130'
+p59
+(dp60
+g3
+Vchangeable inconstant fickle unstable explosive 
+p61
+sg5
+Vvolatile
+p62
+ssS'137'
+p63
+(dp64
+g3
+VA piece of broken pottery
+p65
+sg5
+Vshard
+p66
+ssS'136'
+p67
+(dp68
+g3
+Vin a state of inactivity but awaiting development 
+p69
+sg5
+Vdormant
+p70
+ssS'135'
+p71
+(dp72
+g3
+Va manner of walking, stepping, or running
+p73
+sg5
+Vgait
+p74
+ssS'134'
+p75
+(dp76
+g3
+Vkeep the memory of 
+p77
+sg5
+Vcommemorate
+p78
+ssS'139'
+p79
+(dp80
+g3
+Venclose in capsule 
+p81
+sg5
+Vencapsulate
+p82
+ssS'138'
+p83
+(dp84
+g3
+Vsteel tool for shaping materials 
+p85
+sg5
+Vchisel
+p86
+ssS'166'
+p87
+(dp88
+g3
+Vbelong as a part have reference 
+p89
+sg5
+Vpertain
+p90
+ssS'24'
+p91
+(dp92
+g3
+Vmix; combine; unite societies
+p93
+sg5
+Vamalgamate
+p94
+ssS'25'
+p95
+(dp96
+g3
+Va person who is attracted to foreign peoples cultures
+p97
+sg5
+Vxenophile (zen-uh-fahyl)
+p98
+ssS'26'
+p99
+(dp100
+g3
+Vfeeling sleepy half asleep 
+p101
+sg5
+Vdrowsiness
+p102
+ssS'27'
+p103
+(dp104
+g3
+Vwander lose one's way
+p105
+sg5
+Vstray
+p106
+ssS'20'
+p107
+(dp108
+g3
+Vactive; quick-moving
+p109
+sg5
+Vagile
+p110
+ssS'21'
+p111
+(dp112
+g3
+Vrestore something to better condition 
+p113
+sg5
+Vrenovate
+p114
+ssS'22'
+p115
+(dp116
+g3
+Vcourse of study 
+p117
+sg5
+Vcurriculum
+p118
+ssS'23'
+p119
+(dp120
+g3
+Vmalicious; evil; having or showing ill will
+p121
+sg5
+Vmalevolent
+p122
+ssS'160'
+p123
+(dp124
+g3
+VCruel
+p125
+sg5
+Vsadastic
+p126
+ssS'28'
+p127
+(dp128
+g3
+Vundress
+p129
+sg5
+Vdisrobe
+p130
+ssS'29'
+p131
+(dp132
+g3
+VKeen, quick, accurate insight or judgment
+p133
+sg5
+Vacumen
+p134
+ssS'161'
+p135
+(dp136
+g3
+Vwithout preparation 
+p137
+sg5
+Vimpromptu
+p138
+ssS'4'
+p139
+(dp140
+g3
+Vto make great efforts, to struggle
+p141
+sg5
+Vstrive
+p142
+ssS'8'
+p143
+(dp144
+g3
+Vone who turns towards himself
+p145
+sg5
+Vintrovert
+p146
+ssS'163'
+p147
+(dp148
+g3
+Virregular in behaviour or opinion 
+p149
+sg5
+Verratic
+p150
+ssS'119'
+p151
+(dp152
+g3
+Vrequest 
+p153
+sg5
+Vplea
+p154
+ssS'258'
+p155
+(dp156
+g3
+Vout of place; not in harmony or agreement 
+p157
+sg5
+Vincongruous
+p158
+ssS'120'
+p159
+(dp160
+g3
+Vtoo strong to be defeated 
+p161
+sg5
+Vinvincible
+p162
+ssS'121'
+p163
+(dp164
+g3
+Vlasting 
+p165
+sg5
+Venduring
+p166
+ssS'122'
+p167
+(dp168
+g3
+Vlacking solidarity, strength
+p169
+sg5
+Vflimsy
+p170
+ssS'123'
+p171
+(dp172
+g3
+Vform of a frog when it leaves the egg 
+p173
+sg5
+Vtadpole
+p174
+ssS'124'
+p175
+(dp176
+g3
+Vtrouble disturbance 
+p177
+sg5
+Vturmoil
+p178
+ssS'125'
+p179
+(dp180
+g3
+Vhealth of mind soundness of judgment 
+p181
+sg5
+Vsanity
+p182
+ssS'126'
+p183
+(dp184
+g3
+Vsecret with a hidden meaning 
+p185
+sg5
+Vcryptic
+p186
+ssS'127'
+p187
+(dp188
+g3
+Vbrave,behaves well with women
+p189
+sg5
+Vgallant
+p190
+ssS'128'
+p191
+(dp192
+g3
+Vwrite one's name on the back of
+p193
+sg5
+Vendorse
+p194
+ssS'129'
+p195
+(dp196
+g3
+Vporous rubber for washing live at once expense 
+p197
+sg5
+Vsponge
+p198
+ssS'167'
+p199
+(dp200
+g3
+Vhelping; supporting 
+p201
+sg5
+Vauxiliary
+p202
+ssS'118'
+p203
+(dp204
+g3
+Vquality of being limited; not extreme 
+p205
+sg5
+Vmoderation
+p206
+ssS'59'
+p207
+(dp208
+g3
+VLegal or judicial inquiry, especially before a jury and especially made by a coroner into the cause of someone.s death
+p209
+sg5
+Vinquest
+p210
+ssS'58'
+p211
+(dp212
+g3
+Vend the existence of/wipe or put out 
+p213
+sg5
+Vextinguish
+p214
+ssS'55'
+p215
+(dp216
+g3
+Vrolling backward or forward (not sideways) movement
+p217
+sg5
+Vsomersault
+p218
+ssS'54'
+p219
+(dp220
+g3
+Vhave a mutual relation 
+p221
+sg5
+Vcorrelate
+p222
+ssS'57'
+p223
+(dp224
+g3
+Vfit to be eaten/not poisonous 
+p225
+sg5
+Vedible
+p226
+ssS'56'
+p227
+(dp228
+g3
+Vto go away suddenly (to avoid arrest)
+p229
+sg5
+Vabscond
+p230
+ssS'51'
+p231
+(dp232
+g3
+Vnative
+p233
+sg5
+Vindigenous
+p234
+ssS'50'
+p235
+(dp236
+g3
+Vto complain
+p237
+sg5
+Vgrumble
+p238
+ssS'53'
+p239
+(dp240
+g3
+Vrest to sit or stand in a lazy way hang (dog's tongue)
+p241
+sg5
+Vloll
+p242
+ssS'52'
+p243
+(dp244
+g3
+VWithout preparation or forethought
+p245
+sg5
+Voffhand
+p246
+ssS'259'
+p247
+(dp248
+g3
+Vvaried; motley; greatly diversified 
+p249
+sg5
+Vmultifarious
+p250
+ssS'164'
+p251
+(dp252
+g3
+Vgiving great attention to details 
+p253
+sg5
+Vmeticulous
+p254
+ssS'201'
+p255
+(dp256
+g3
+Vhave more power than others 
+p257
+sg5
+Vpredominate
+p258
+ssS'199'
+p259
+(dp260
+g3
+Vwritten order 
+p261
+sg5
+Vwrit
+p262
+ssS'179'
+p263
+(dp264
+g3
+Vstraying away from what is normal
+p265
+sg5
+Vaberration
+p266
+ssS'200'
+p267
+(dp268
+g3
+Vhypnotize 
+p269
+sg5
+Vmesmerize
+p270
+ssS'195'
+p271
+(dp272
+g3
+Va model example or pattern 
+p273
+sg5
+Vparadigm
+p274
+ssS'194'
+p275
+(dp276
+g3
+Vwillful FALSE statement unlawful act 
+p277
+sg5
+Vperjury
+p278
+ssS'197'
+p279
+(dp280
+g3
+Vquality or condition of being sober 
+p281
+sg5
+Vsobriety
+p282
+ssS'178'
+p283
+(dp284
+g3
+Va person with good judgement (e.g.. in art) 
+p285
+sg5
+Vconnoisseur
+p286
+ssS'191'
+p287
+(dp288
+g3
+Vman owning small estate; middle-class farmer
+p289
+sg5
+Vyeoman
+p290
+ssS'190'
+p291
+(dp292
+g3
+Vsatisfy fully 
+p293
+sg5
+Vsatiate
+p294
+ssS'193'
+p295
+(dp296
+g3
+Vpull the feathers off pick (e.g.. flowers) 
+p297
+sg5
+Vpluck
+p298
+ssS'192'
+p299
+(dp300
+g3
+Vloyalty accuracy 
+p301
+sg5
+Vfidelity
+p302
+ssS'115'
+p303
+(dp304
+g3
+Vrising or falling sharply 
+p305
+sg5
+Vsteeply
+p306
+ssS'114'
+p307
+(dp308
+g3
+Vmeasure hoe heavy something is 
+p309
+sg5
+Vweigh
+p310
+ssS'88'
+p311
+(dp312
+g3
+Vgetting farther apart from a point 
+p313
+sg5
+Vdivergence
+p314
+ssS'89'
+p315
+(dp316
+g3
+Vduty support loyalty
+p317
+sg5
+Vallegiance
+p318
+ssS'111'
+p319
+(dp320
+g3
+Vfluent speaking skillful use of language 
+p321
+sg5
+Veloquence
+p322
+ssS'110'
+p323
+(dp324
+g3
+Vpostpone
+p325
+sg5
+Vdefer
+p326
+ssS'113'
+p327
+(dp328
+g3
+Vperson who travels regularly 
+p329
+sg5
+Vcommuter
+p330
+ssS'112'
+p331
+(dp332
+g3
+Vhalf-solid lump formed from liquid 
+p333
+sg5
+Vclot
+p334
+ssS'82'
+p335
+(dp336
+g3
+Vfall back again 
+p337
+sg5
+Vrelapse
+p338
+ssS'83'
+p339
+(dp340
+g3
+Vhand or swing loosely
+p341
+sg5
+Vdangle
+p342
+ssS'80'
+p343
+(dp344
+g3
+Vthe saving of property from loss
+p345
+sg5
+Vsalvage
+p346
+ssS'81'
+p347
+(dp348
+g3
+Vin a dying state; near death
+p349
+sg5
+Vmoribund
+p350
+ssS'86'
+p351
+(dp352
+g3
+Vtale story fibers for knitting 
+p353
+sg5
+Vyarn
+p354
+ssS'87'
+p355
+(dp356
+g3
+Vproud; superior manner of behaviour 
+p357
+sg5
+Varrogance
+p358
+ssS'84'
+p359
+(dp360
+g3
+Vgo or come up 
+p361
+sg5
+Vascend
+p362
+ssS'85'
+p363
+(dp364
+g3
+Vthe mark * (e.g.. omitted letters) 
+p365
+sg5
+Vasterisk
+p366
+ssS'251'
+p367
+(dp368
+g3
+Vtending to evade 
+p369
+sg5
+Vevasive
+p370
+ssS'198'
+p371
+(dp372
+g3
+Veasily controlled or guided 
+p373
+sg5
+Vtractable
+p374
+ssS'256'
+p375
+(dp376
+g3
+Vskill (esp. in handling) 
+p377
+sg5
+Vdexterity
+p378
+ssS'206'
+p379
+(dp380
+g3
+Vone-sided committed to a party biased or prejudiced 
+p381
+sg5
+Vpartisan
+p382
+ssS'226'
+p383
+(dp384
+g3
+Vrefuse to accept/cause dislike 
+p385
+sg5
+Vrepel
+p386
+ssS'257'
+p387
+(dp388
+g3
+Vsham; counterfeit; not genuine 
+p389
+sg5
+Vbogus
+p390
+ssS'3'
+p391
+(dp392
+g3
+Vmedicine used against a poison or a disease
+p393
+sg5
+Vantidote
+p394
+ssS'177'
+p395
+(dp396
+g3
+Vbeing uncontrollably violent 
+p397
+sg5
+Vturbulence
+p398
+ssS'254'
+p399
+(dp400
+g3
+Vto steal, especially in small quantities
+p401
+sg5
+Vpilferer
+p402
+ssS'7'
+p403
+(dp404
+g3
+Va person or thing that precedes, as in a  process or job.
+p405
+sg5
+Vprecursors
+p406
+ssS'247'
+p407
+(dp408
+g3
+Vinclined to indulge 
+p409
+sg5
+Vindulgent
+p410
+ssS'255'
+p411
+(dp412
+g3
+Vmake or become pure cultural 
+p413
+sg5
+Vrefine
+p414
+ssS'225'
+p415
+(dp416
+g3
+Vcover for the blade of a weapon or a tool 
+p417
+sg5
+Vsheath
+p418
+ssS'245'
+p419
+(dp420
+g3
+Vbrutal racial discrimination
+p421
+sg5
+Vapartheid
+p422
+ssS'244'
+p423
+(dp424
+g3
+Vcoming back to consciousness 
+p425
+sg5
+Vresuscitation
+p426
+ssS'108'
+p427
+(dp428
+g3
+Vsay or do again several times 
+p429
+sg5
+Vreiterate
+p430
+ssS'109'
+p431
+(dp432
+g3
+Vunoriginal; obtained from another source 
+p433
+sg5
+Vderivative
+p434
+ssS'241'
+p435
+(dp436
+g3
+Vget back by payment compensate 
+p437
+sg5
+Vredeem
+p438
+ssS'240'
+p439
+(dp440
+g3
+Vtoo talkative
+p441
+sg5
+Vgarrulous
+p442
+ssS'243'
+p443
+(dp444
+g3
+Vhinder; get in the way of 
+p445
+sg5
+Vimpede
+p446
+ssS'242'
+p447
+(dp448
+g3
+Vmetal supports attached to the legs measuring instrument 
+p449
+sg5
+Vcalipers
+p450
+ssS'102'
+p451
+(dp452
+g3
+VSelf-love
+p453
+sg5
+Vnarcissism
+p454
+ssS'103'
+p455
+(dp456
+g3
+Va stupid, insensitive person
+p457
+sg5
+Vdullard
+p458
+ssS'100'
+p459
+(dp460
+g3
+Va person who attempts to impress by acting unlike himself
+p461
+sg5
+Vposeur
+p462
+ssS'101'
+p463
+(dp464
+g3
+Vtiny bits of wood 
+p465
+sg5
+Vsawdust
+p466
+ssS'106'
+p467
+(dp468
+g3
+Vfail/move/fall clumsily 
+p469
+sg5
+Vflop
+p470
+ssS'107'
+p471
+(dp472
+g3
+Vtake in by swallowing 
+p473
+sg5
+Vingest
+p474
+ssS'104'
+p475
+(dp476
+g3
+Vyield, die
+p477
+sg5
+Vsuccumb
+p478
+ssS'105'
+p479
+(dp480
+g3
+Vlazy slow-moving person 
+p481
+sg5
+Vsluggard
+p482
+ssS'39'
+p483
+(dp484
+g3
+VBequest or inheritance
+p485
+sg5
+Vlegacy
+p486
+ssS'38'
+p487
+(dp488
+g3
+Veasily injured broken or destroyed 
+p489
+sg5
+Vfragile
+p490
+ssS'33'
+p491
+(dp492
+g3
+Vsuccession connected line of 
+p493
+sg5
+Vsequence
+p494
+ssS'32'
+p495
+(dp496
+g3
+Vsmell (especially pleasant) 
+p497
+sg5
+Vscent
+p498
+ssS'31'
+p499
+(dp500
+g3
+Vhappening from time to time
+p501
+sg5
+Vsporadic
+p502
+ssS'30'
+p503
+(dp504
+g3
+Vcause or have difficulty in breathing 
+p505
+sg5
+Vsuffocate
+p506
+ssS'37'
+p507
+(dp508
+g3
+Vmade up of different kinds 
+p509
+sg5
+Vheterogeneous
+p510
+ssS'36'
+p511
+(dp512
+g3
+Vstrong dislike
+p513
+sg5
+Vanimosity
+p514
+ssS'35'
+p515
+(dp516
+g3
+Vclose connection; relationship
+p517
+sg5
+Vaffinity
+p518
+ssS'34'
+p519
+(dp520
+g3
+VBold
+p521
+sg5
+Vaudacious
+p522
+ssS'246'
+p523
+(dp524
+g3
+Vagree in opinion happen together 
+p525
+sg5
+Vconcur
+p526
+ssS'252'
+p527
+(dp528
+g3
+Vformal praise panegyric 
+p529
+sg5
+Veulogy
+p530
+ssS'205'
+p531
+(dp532
+g3
+Vmove force from the place occupied 
+p533
+sg5
+Vdislodge
+p534
+ssS'223'
+p535
+(dp536
+g3
+Vreceding 
+p537
+sg5
+Vretrograde
+p538
+ssS'176'
+p539
+(dp540
+g3
+Vdifficult to comprehend; obscure
+p541
+sg5
+Vabstruse
+p542
+ssS'60'
+p543
+(dp544
+g3
+Vadditional load/charge 
+p545
+sg5
+Vsurcharge
+p546
+ssS'61'
+p547
+(dp548
+g3
+Vpraise; approval
+p549
+sg5
+Vaccolade
+p550
+ssS'62'
+p551
+(dp552
+g3
+Vto join together 
+p553
+sg5
+Vconjoin
+p554
+ssS'63'
+p555
+(dp556
+g3
+Vshy easily frightened 
+p557
+sg5
+Vtimid
+p558
+ssS'64'
+p559
+(dp560
+g3
+Vdullness/not allowing light to pass through 
+p561
+sg5
+Vopaqueness
+p562
+ssS'65'
+p563
+(dp564
+g3
+Vrefuse to allow or accept as a correct 
+p565
+sg5
+Vdisallow
+p566
+ssS'66'
+p567
+(dp568
+g3
+Vbe faithful; to endure
+p569
+sg5
+Vabide
+p570
+ssS'67'
+p571
+(dp572
+g3
+Vthat cannot be permeated 
+p573
+sg5
+Vimpermeable
+p574
+ssS'68'
+p575
+(dp576
+g3
+Vgive comfort or sympathy to 
+p577
+sg5
+Vconsole
+p578
+ssS'69'
+p579
+(dp580
+g3
+Vauthority written order guarantee 
+p581
+sg5
+Vwarrant
+p582
+ssS'175'
+p583
+(dp584
+g3
+Vcheat make a fool of 
+p585
+sg5
+Vdupe
+p586
+ssS'174'
+p587
+(dp588
+g3
+Vnot easily heard; seen clearly marked 
+p589
+sg5
+Vindistinct
+p590
+ssS'173'
+p591
+(dp592
+g3
+Vanticipatory fear; premonition
+p593
+sg5
+Vpresentiment
+p594
+ssS'172'
+p595
+(dp596
+g3
+Vbe destroyed decay 
+p597
+sg5
+Vperish
+p598
+ssS'171'
+p599
+(dp600
+g3
+Vsomething giving strength or energy 
+p601
+sg5
+Vtonic
+p602
+ssS'170'
+p603
+(dp604
+g3
+Vturned to bone; hardened like bone; Inflexible
+p605
+sg5
+Vossified
+p606
+ssS'203'
+p607
+(dp608
+g3
+Vnumber of ships; quick-moving 
+p609
+sg5
+Vfleet
+p610
+ssS'222'
+p611
+(dp612
+g3
+Vwarm and sincere 
+p613
+sg5
+Vcordial
+p614
+ssS'181'
+p615
+(dp616
+g3
+Vdestructive thing or a person who is nuisance 
+p617
+sg5
+Vpest
+p618
+ssS'253'
+p619
+(dp620
+g3
+Vnurture; care for 
+p621
+sg5
+Vfoster
+p622
+ssS'248'
+p623
+(dp624
+g3
+Va number of performance of music 
+p625
+sg5
+Vrecitals
+p626
+ssS'182'
+p627
+(dp628
+g3
+Vsentence within another one something separated 
+p629
+sg5
+Vparenthesis
+p630
+ssS'183'
+p631
+(dp632
+g3
+Vcomplex; subtle; refined 
+p633
+sg5
+Vsophisticated
+p634
+ssS'180'
+p635
+(dp636
+g3
+Voutside the law 
+p637
+sg5
+Vextralegal
+p638
+ssS'2'
+p639
+(dp640
+g3
+Vone who loves mankind
+p641
+sg5
+Vphilanthropist
+p642
+ssS'162'
+p643
+(dp644
+g3
+Vdirecting the mind in a certain direction 
+p645
+sg5
+Vinclined
+p646
+ssS'187'
+p647
+(dp648
+g3
+VA very small amount, portion, or particle
+p649
+sg5
+Vmite
+p650
+ssS'184'
+p651
+(dp652
+g3
+Vto cause pain, uneasiness, or trouble to.
+p653
+sg5
+Vail
+p654
+ssS'6'
+p655
+(dp656
+g3
+VLooking back on past
+p657
+sg5
+Vretrospective
+p658
+ssS'220'
+p659
+(dp660
+g3
+Vcounterfeit 
+p661
+sg5
+Vforgery
+p662
+ssS'186'
+p663
+(dp664
+g3
+Vknown or understood by very few
+p665
+sg5
+Varcane
+p666
+ssS'188'
+p667
+(dp668
+g3
+Vinstruct; correct morally
+p669
+sg5
+Vedify
+p670
+ssS'189'
+p671
+(dp672
+g3
+Vbecome strong after illness loss exhaustion 
+p673
+sg5
+Vrecuperate
+p674
+ssS'202'
+p675
+(dp676
+g3
+Vspeak distinctly; connect by joints 
+p677
+sg5
+Varticulate
+p678
+ssS'196'
+p679
+(dp680
+g3
+Veasily gulled 
+p681
+sg5
+Vgullible
+p682
+ssS'221'
+p683
+(dp684
+g3
+Vregular customer person who gives support 
+p685
+sg5
+Vpatron
+p686
+ssS'185'
+p687
+(dp688
+g3
+Vlacking strength; walking unevenly 
+p689
+sg5
+Vlimp
+p690
+ssS'99'
+p691
+(dp692
+g3
+Vimprove; make better
+p693
+sg5
+Vameliorate
+p694
+ssS'98'
+p695
+(dp696
+g3
+Vwrite hastily 
+p697
+sg5
+Vscribble
+p698
+ssS'168'
+p699
+(dp700
+g3
+Vmake tight or smaller 
+p701
+sg5
+Vconstrict
+p702
+ssS'169'
+p703
+(dp704
+g3
+Vstar; light-giving body 
+p705
+sg5
+Vluminary
+p706
+ssS'229'
+p707
+(dp708
+g3
+Vnoisy; restraint 
+p709
+sg5
+Vboisterous
+p710
+ssS'228'
+p711
+(dp712
+g3
+Vput something on the top 
+p713
+sg5
+Vsuperimpose
+p714
+ssS'91'
+p715
+(dp716
+g3
+Vperson much smaller the usual size 
+p717
+sg5
+Vdwarf
+p718
+ssS'90'
+p719
+(dp720
+g3
+Vstrong energetic 
+p721
+sg5
+Vvigorous
+p722
+ssS'93'
+p723
+(dp724
+g3
+Vbecoming young in nature or appearance 
+p725
+sg5
+Vrejuvenation
+p726
+ssS'92'
+p727
+(dp728
+g3
+VFuriously angry, enraged
+p729
+sg5
+Vlivid
+p730
+ssS'95'
+p731
+(dp732
+g3
+Vsound in judgment; wise 
+p733
+sg5
+Vjudicious
+p734
+ssS'94'
+p735
+(dp736
+g3
+Vsweet-smelling 
+p737
+sg5
+Vfragrant
+p738
+ssS'97'
+p739
+(dp740
+g3
+Vsmell
+p741
+sg5
+Vodor
+p742
+ssS'96'
+p743
+(dp744
+g3
+Vliking to give hospitality 
+p745
+sg5
+Vhospitable
+p746
+ssS'11'
+p747
+(dp748
+g3
+Vboastful
+p749
+sg5
+Vbraggart
+p750
+ssS'10'
+p751
+(dp752
+g3
+Vdoubtful; uncertain
+p753
+sg5
+Vambiguous
+p754
+ssS'13'
+p755
+(dp756
+g3
+Vattract, lure
+p757
+sg5
+Ventice
+p758
+ssS'12'
+p759
+(dp760
+g3
+Vmake worse; irritate
+p761
+sg5
+Vaggravate
+p762
+ssS'15'
+p763
+(dp764
+g3
+Vadd beauty; decorate
+p765
+sg5
+Vadorn
+p766
+ssS'14'
+p767
+(dp768
+g3
+Vmake (pain) easier to bear
+p769
+sg5
+Valleviate
+p770
+ssS'17'
+p771
+(dp772
+g3
+Vto hate; to detest
+p773
+sg5
+Vabhor
+p774
+ssS'16'
+p775
+(dp776
+g3
+Vstate of being balanced 
+p777
+sg5
+Vequilibrium
+p778
+ssS'19'
+p779
+(dp780
+g3
+Vto make an effort, to try very hard
+p781
+sg5
+Vendeavor
+p782
+ssS'18'
+p783
+(dp784
+g3
+VSuggest or imply in addition to the precise, literal meaning
+p785
+sg5
+Vconnote
+p786
+ssS'117'
+p787
+(dp788
+g3
+Vperson who has given help 
+p789
+sg5
+Vbenefactor
+p790
+ssS'250'
+p791
+(dp792
+g3
+Vperson who hates mankind 
+p793
+sg5
+Vmisanthrope
+p794
+ssS'116'
+p795
+(dp796
+g3
+Vtwisting force causing rotation 
+p797
+sg5
+Vtorque
+p798
+ssS'204'
+p799
+(dp800
+g3
+Vof the power of forming a solution 
+p801
+sg5
+Vsolvent
+p802
+ssS'151'
+p803
+(dp804
+g3
+Vinvolving or using conversation.
+p805
+sg5
+Vcolloquial
+p806
+ssS'150'
+p807
+(dp808
+g3
+Vcelebrated; famous 
+p809
+sg5
+Vrenowned
+p810
+ssS'153'
+p811
+(dp812
+g3
+Vharmful; causing mischief 
+p813
+sg5
+Vmischievous
+p814
+ssS'152'
+p815
+(dp816
+g3
+Vcall up bring out 
+p817
+sg5
+Vevoke
+p818
+ssS'155'
+p819
+(dp820
+g3
+Vextreme bad
+p821
+sg5
+Vabysmal
+p822
+ssS'154'
+p823
+(dp824
+g3
+Vimplied though; not plainly expressed
+p825
+sg5
+Vimplicit
+p826
+ssS'157'
+p827
+(dp828
+g3
+Vpuzzling person or thing 
+p829
+sg5
+Vriddle
+p830
+ssS'156'
+p831
+(dp832
+g3
+Vshow much fondness center one's attention
+p833
+sg5
+Vdote
+p834
+ssS'159'
+p835
+(dp836
+g3
+Vproof to the contrary 
+p837
+sg5
+Vdisproof
+p838
+ssS'158'
+p839
+(dp840
+g3
+Vone who hates women/females 
+p841
+sg5
+Vmisogynist
+p842
+ssS'234'
+p843
+(dp844
+g3
+Vsomething that is puzzling 
+p845
+sg5
+Venigma
+p846
+ssS'238'
+p847
+(dp848
+g3
+Vpuzzle; confuse 
+p849
+sg5
+Vbewilder
+p850
+ssS'239'
+p851
+(dp852
+g3
+Vwalk with long steps 
+p853
+sg5
+Vstride
+p854
+ssS'207'
+p855
+(dp856
+g3
+Vweapon with a metal point on a long shaft 
+p857
+sg5
+Vspear
+p858
+ssS'235'
+p859
+(dp860
+g3
+Vable to float; light-hearted 
+p861
+sg5
+Vbuoyant
+p862
+ssS'236'
+p863
+(dp864
+g3
+Vtalk excitedly; utter rapidly 
+p865
+sg5
+Vjabber
+p866
+ssS'237'
+p867
+(dp868
+g3
+Vnot to be trusted, perfidious
+p869
+sg5
+Vtreacherous
+p870
+ssS'230'
+p871
+(dp872
+g3
+Vcollapse; bursting inward 
+p873
+sg5
+Vimplosion
+p874
+ssS'231'
+p875
+(dp876
+g3
+Vleader of a unit of 100 soldiers 
+p877
+sg5
+Vcenturion
+p878
+ssS'232'
+p879
+(dp880
+g3
+Vdraw together; unite firmly 
+p881
+sg5
+Vknit
+p882
+ssS'233'
+p883
+(dp884
+g3
+Vof great importance (others depend on it) 
+p885
+sg5
+Vpivotal
+p886
+ssS'224'
+p887
+(dp888
+g3
+Vburdensome; heavy and awkward to carry 
+p889
+sg5
+Vcumbersome
+p890
+ssS'48'
+p891
+(dp892
+g3
+Vwell-suited; quick-witted
+p893
+sg5
+Vapt
+p894
+ssS'49'
+p895
+(dp896
+g3
+Vhide keep secret 
+p897
+sg5
+Vconceal
+p898
+ssS'46'
+p899
+(dp900
+g3
+Vavoided, kept away from
+p901
+sg5
+Vshunned
+p902
+ssS'47'
+p903
+(dp904
+g3
+Vsevere suffering
+p905
+sg5
+Vanguish
+p906
+ssS'44'
+p907
+(dp908
+g3
+Vprocess of burning 
+p909
+sg5
+Vcombustion
+p910
+ssS'45'
+p911
+(dp912
+g3
+Vdoing or happening something before the right time 
+p913
+sg5
+Vpremature
+p914
+ssS'42'
+p915
+(dp916
+g3
+Vput under water liquid sink out of sight 
+p917
+sg5
+Vsubmerge
+p918
+ssS'43'
+p919
+(dp920
+g3
+Vmaking unpure; poorer in quality
+p921
+sg5
+Vadulteration
+p922
+ssS'40'
+p923
+(dp924
+g3
+Vcruel killing of a large number of people 
+p925
+sg5
+Vmassacre
+p926
+ssS'41'
+p927
+(dp928
+g3
+Vmake quiet or calm
+p929
+sg5
+Vappease
+p930
+ssS'1'
+p931
+(dp932
+g3
+Vexamining one's own thoughts and feelings
+p933
+sg5
+Vintrospection
+p934
+ssS'5'
+p935
+(dp936
+g3
+Vable to use the left hand or the right equally well
+p937
+sg5
+Vambidextrous
+p938
+ssS'9'
+p939
+(dp940
+g3
+Vgovernment ruled by old people
+p941
+sg5
+Vgerontocracy
+p942
+ssS'146'
+p943
+(dp944
+g3
+Vattack verbally
+p945
+sg5
+VLambaste
+p946
+ssS'147'
+p947
+(dp948
+g3
+Vapproval (by authority) penalty 
+p949
+sg5
+Vsanction
+p950
+ssS'144'
+p951
+(dp952
+g3
+Vget rid of pull up by the roots 
+p953
+sg5
+Veradicate
+p954
+ssS'145'
+p955
+(dp956
+g3
+Vfill with fury or rage 
+p957
+sg5
+Vinfuriate
+p958
+ssS'142'
+p959
+(dp960
+g3
+Vfalsely making oneself appear to be good 
+p961
+sg5
+Vhypocrisy
+p962
+ssS'143'
+p963
+(dp964
+g3
+Vcatalyst 
+p965
+sg5
+Venzyme
+p966
+ssS'140'
+p967
+(dp968
+g3
+Vtrying to please; obliging
+p969
+sg5
+Vcomplaisant
+p970
+ssS'141'
+p971
+(dp972
+g3
+Vcausing grief or pain; serious dire grave 
+p973
+sg5
+Vgrievous
+p974
+ssS'209'
+p975
+(dp976
+g3
+Vmislead or delude; cheat; pass time
+p977
+sg5
+Vbeguile
+p978
+ssS'208'
+p979
+(dp980
+g3
+Vlively high-spirited 
+p981
+sg5
+Vvivacious
+p982
+ssS'148'
+p983
+(dp984
+g3
+Vswallow up 
+p985
+sg5
+Vengulf
+p986
+ssS'149'
+p987
+(dp988
+g3
+Velation state of pleasant excitement 
+p989
+sg5
+Veuphoria
+p990
+ssS'77'
+p991
+(dp992
+g3
+Veasily broken 
+p993
+sg5
+Vbrittle
+p994
+ssS'76'
+p995
+(dp996
+g3
+Vcustomers 
+p997
+sg5
+Vclientele
+p998
+ssS'75'
+p999
+(dp1000
+g3
+Vlittle depth; not earnest 
+p1001
+sg5
+Vshallow
+p1002
+ssS'74'
+p1003
+(dp1004
+g3
+Vuse in a wrong way for one's own benefit
+p1005
+sg5
+Vembezzle
+p1006
+ssS'73'
+p1007
+(dp1008
+g3
+Vsubstance that causes speeding up 
+p1009
+sg5
+Vcatalyst
+p1010
+ssS'72'
+p1011
+(dp1012
+g3
+Vsuggest something in the past
+p1013
+sg5
+Vreminiscent
+p1014
+ssS'71'
+p1015
+(dp1016
+g3
+Vno longer active 
+p1017
+sg5
+Vextinct
+p1018
+ssS'70'
+p1019
+(dp1020
+g3
+Vwelcomed with shouts and approval
+p1021
+sg5
+Vacclaimed
+p1022
+ssS'79'
+p1023
+(dp1024
+g3
+Vpolite and friendly
+p1025
+sg5
+Vaffable
+p1026
+ssS'78'
+p1027
+(dp1028
+g3
+Vtaking too little care 
+p1029
+sg5
+Vnegligent
+p1030
+ssS'249'
+p1031
+(dp1032
+g3
+Vtry to win 
+p1033
+sg5
+Vwoo
+p1034
+ssS'262'
+p1035
+(dp1036
+g3
+Vunlucky
+p1037
+sg5
+Vhapless
+p1038
+ssS'227'
+p1039
+(dp1040
+g3
+Vunharmed unhurt 
+p1041
+sg5
+Vunscathed
+p1042
+ssS'261'
+p1043
+(dp1044
+g3
+Vcausing a feeling of disgust 
+p1045
+sg5
+Vrepulsive
+p1046
+ssS'260'
+p1047
+(dp1048
+g3
+Vshort piece of humorous writing 
+p1049
+sg5
+Vskit
+p1050
+ss.
